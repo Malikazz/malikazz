@@ -46,3 +46,7 @@
 ![Framwork Node](https://img.shields.io/badge/Framework-Node-green)
 ![Framwork Node](https://img.shields.io/badge/Framework-Vue3-grenn)
 ![Framwork Node](https://img.shields.io/badge/Framework-Express-green)
+
+## Connect with Me
+
+[Linkedin](https://www.linkedin.com/in/paul-malcolm-52b4b27a/)
