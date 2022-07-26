@@ -44,8 +44,9 @@
 ![Framwork Flask](https://img.shields.io/badge/Framework-Flask-yellow)
 ![Framwork Rocket](https://img.shields.io/badge/Framework-Rocketrs-orange)
 ![Framwork Node](https://img.shields.io/badge/Framework-Node-green)
-![Framwork Node](https://img.shields.io/badge/Framework-Vue3-grenn)
-![Framwork Node](https://img.shields.io/badge/Framework-Express-green)
+![Framwork Vue3](https://img.shields.io/badge/Framework-Vue3-grenn)
+![Framwork Express](https://img.shields.io/badge/Framework-Express-green)
+![Framwork Flutter](https://img.shields.io/badge/Framework-FlutterNullSafe-purple)
 
 ## Connect with Me
 
