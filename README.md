@@ -9,7 +9,7 @@
 ![Rasbarian_Linux](https://img.shields.io/badge/OS-Rasberian-ff69b4)
 
 ![Visual Studio Code](https://img.shields.io/badge/Editor-VS_Code-informational)
-![NVim](https://img.shields.io/badge/Editor-Vim-red)
+![NVim](https://img.shields.io/badge/Editor-nVim-red)
 
 ![Code Javascript](https://img.shields.io/badge/Code-Javascript-green)
 ![Code Python](https://img.shields.io/badge/Code-Python-yellow)
