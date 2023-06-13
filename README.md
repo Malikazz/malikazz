@@ -17,7 +17,7 @@
 
 
 ![Database PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-yellow)
-![Database MySQL](https://img.shields.io/badge/Database-MySQL/Maria-lightblue)
+![Database MSSQL](https://img.shields.io/badge/Database-MSSQL-blue)
 
 ![Tools BurpSuite](https://img.shields.io/badge/Tools-Burpsuite-red)
 ![Tools Nmap](https://img.shields.io/badge/Tools-Nmap-red)
@@ -58,7 +58,8 @@
 
 
 
-![Database MSSQL](https://img.shields.io/badge/Database-MSSQL-blue)
+
+![Database MySQL](https://img.shields.io/badge/Database-MySQL/Maria-lightblue)
 ![Database SQLite](https://img.shields.io/badge/Database-SQLite-purple)
 
 ## Connect with Me
