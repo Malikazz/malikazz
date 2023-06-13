@@ -25,7 +25,7 @@
 
 ![Tools Gitlabs](https://img.shields.io/badge/Tools-Gitlabs-yellow)
 ![Tools AzureRepos](https://img.shields.io/badge/Tools-AzureRepos-blue)
-![Tools GraphApi](https://img.shields.io/badge/Tools-GraphApi-blue)
+
 ![Tools Docker](https://img.shields.io/badge/Tools-Docker-yellow)
 ![Tools Nginx](https://img.shields.io/badge/Tools-Nginx-yellow)
 
@@ -50,6 +50,7 @@
 ![Tools PwnTools](https://img.shields.io/badge/Tools-Pwntools-red)
 ![Tools Metasploit](https://img.shields.io/badge/Tools-MetaSploit-red)
 ![Tools Sluthkit](https://img.shields.io/badge/Tools-Sluthkit-red)
+![Tools GraphApi](https://img.shields.io/badge/Tools-GraphApi-blue)
 
 ![Code Dart](https://img.shields.io/badge/Code-Dart-purple)
 
