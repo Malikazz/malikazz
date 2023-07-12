@@ -34,8 +34,6 @@
 
 ![Framwork Dotnet](https://img.shields.io/badge/Framework-Dotnet-blue)
 ![Framwork Django](https://img.shields.io/badge/Framework-Django-yellow)
-![Framwork Rocket](https://img.shields.io/badge/Framework-Rocketrs-orange)
-![Framwork Node](https://img.shields.io/badge/Framework-Node-green)
 ![Framwork Vue3](https://img.shields.io/badge/Framework-Vue3-grenn)
 
 
@@ -44,6 +42,8 @@
 ![Framwork Express](https://img.shields.io/badge/Framework-Express-green)
 ![Framwork Flutter](https://img.shields.io/badge/Framework-FlutterNullSafe-purple)
 ![Framwork Flask](https://img.shields.io/badge/Framework-Flask-yellow)
+![Framwork Rocket](https://img.shields.io/badge/Framework-Rocketrs-orange)
+![Framwork Node](https://img.shields.io/badge/Framework-Node-green)
 
 ![Tools Celery](https://img.shields.io/badge/Tools-Celery-yellow)
 ![Tools RabitMQ](https://img.shields.io/badge/Tools-RabitMQ-yellow)
