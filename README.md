@@ -1,4 +1,4 @@
-# I I'm Paul,
+# I'm Paul,
 
 ## I enjoy working with computers to solve problems 
 
