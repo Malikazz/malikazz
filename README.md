@@ -19,7 +19,7 @@
 ![Database PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-yellow)
 ![Database MSSQL](https://img.shields.io/badge/Database-MSSQL-blue)
 
-![Tools BurpSuite](https://img.shields.io/badge/Tools-Burpsuite-red)
+
 ![Tools Nmap](https://img.shields.io/badge/Tools-Nmap-red)
 
 
@@ -33,12 +33,12 @@
 ![Cloud Azure](https://img.shields.io/badge/Cloud-AWS-yellow)
 
 ![Framwork Dotnet](https://img.shields.io/badge/Framework-Dotnet-blue)
-![Framwork Django](https://img.shields.io/badge/Framework-Django-yellow)
 ![Framwork Vue3](https://img.shields.io/badge/Framework-Vue3-grenn)
 
 
 ## Things I have used but its been a while
 
+![Framwork Django](https://img.shields.io/badge/Framework-Django-yellow)
 ![Framwork Express](https://img.shields.io/badge/Framework-Express-green)
 ![Framwork Flutter](https://img.shields.io/badge/Framework-FlutterNullSafe-purple)
 ![Framwork Flask](https://img.shields.io/badge/Framework-Flask-yellow)
@@ -51,6 +51,7 @@
 ![Tools Metasploit](https://img.shields.io/badge/Tools-MetaSploit-red)
 ![Tools Sluthkit](https://img.shields.io/badge/Tools-Sluthkit-red)
 ![Tools GraphApi](https://img.shields.io/badge/Tools-GraphApi-blue)
+![Tools BurpSuite](https://img.shields.io/badge/Tools-Burpsuite-red)
 
 ![Code Dart](https://img.shields.io/badge/Code-Dart-purple)
 
