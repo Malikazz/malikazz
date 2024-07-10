@@ -17,10 +17,13 @@
 
 
 ![Database PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-yellow)
+![Database Prometheus](https://img.shields.io/badge/Database-Prometheus-blue)
 ![Database MSSQL](https://img.shields.io/badge/Database-MSSQL-blue)
 
 
 ![Tools Nmap](https://img.shields.io/badge/Tools-Nmap-red)
+![Tools Locust](https://img.shields.io/badge/Tools-Locust-yellow)
+![Tools Grafana](https://img.shields.io/badge/Tools-Grafana-blue)
 
 
 ![Tools Gitlabs](https://img.shields.io/badge/Tools-Gitlabs-yellow)
